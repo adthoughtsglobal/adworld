@@ -5,3 +5,5 @@ Everyone can make suggestions in this altrenate superverse. Welcome travellers t
 
 # Use [issues page](https://github.com/adthoughtsglobal/adworld/issues) to contribute ideas and suggestions.
 Your contribututions help us shape this alternate future. https://github.com/adthoughtsglobal/adworld/issues
+
+# See how it turned out : [/main.html](https://adthoughtsglobal.github.io/adworld/main.html)
