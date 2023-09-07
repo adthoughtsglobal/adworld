@@ -3,4 +3,5 @@ adworld is a dream of the near-future reality of endless posibilities. Check out
 
 Everyone can make suggestions in this altrenate superverse. Welcome travellers to the Cyberdemocracy Republic, where algorithms decide your fate.
 
-# Use issues page to contribute ideas and suggestions.
+# Use [issues page](https://github.com/adthoughtsglobal/adworld/issues) to contribute ideas and suggestions.
+Your contribututions help us shape this alternate future. https://github.com/adthoughtsglobal/adworld/issues
