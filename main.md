@@ -6,15 +6,15 @@ In the spirit of fostering a just and harmonious society, the State of Adworld i
 
 1. The Adworld Score system shall operate as a measure of civic responsibility and contributions to society, promoting positive behaviors and social harmony.
 These listed below are some examples of the perks awarded to high adworld Scores:
-  1. Priority Access to Services: High-scoring individuals may receive priority access to services, but not to the detriment of others. Priority should be based on need rather than score.
-  
-  1. Recognition and Awards: Instead of exclusive privileges, high-scoring citizens can receive recognition and awards for their contributions to society. This can be in the form of certificates, medals, or public acknowledgment.
-  
-  1. Community Engagement: High-scoring individuals could be encouraged to participate in community projects and initiatives, where their expertise and leadership can benefit the community as a whole.
-  
-  1. Educational Support: High-scoring individuals might receive educational support in the form of mentorship programs or access to additional learning resources, without compromising equal educational opportunities for all.
-  
-  No citizen shall be subject to discrimination or unjust treatment based on their Adworld Score, ensuring equal opportunities for all.
+      - Priority Access to Services: High-scoring individuals may receive priority access to services, but not to the detriment of others. Priority should be based on need rather than score.
+      
+      - Recognition and Awards: Instead of exclusive privileges, high-scoring citizens can receive recognition and awards for their contributions to society. This can be in the form of certificates, medals, or public acknowledgment.
+      
+      - Community Engagement: High-scoring individuals could be encouraged to participate in community projects and initiatives, where their expertise and leadership can benefit the community as a whole.
+      
+      - Educational Support: High-scoring individuals might receive educational support in the form of mentorship programs or access to additional learning resources, without compromising equal educational opportunities for all.
+      
+      No citizen shall be subject to discrimination or unjust treatment based on their Adworld Score, ensuring equal opportunities for all.
 
 3. All Adworld citizens shall enjoy the right to privacy and data protection, with stringent safeguards in place to prevent unauthorized intrusion into their personal lives.
 
