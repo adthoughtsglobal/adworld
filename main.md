@@ -12,7 +12,14 @@ In the spirit of fostering a just and harmonious society, the State of Adworld i
 
 ## Article II - Individual Rights and Autonomy
 
-Adworld citizens possess the inherent right to personal autonomy, including the freedom to express diverse opinions, pursue individual creativity, and make choices that do not infringe upon the rights of others.
+Adworld citizens possess the inherent right to personal autonomy, including the freedom to express diverse opinions, pursue individual creativity, and make choices that do not infringe upon the rights of others. These listed below are some examples of the perks awarded to high adworld Scores:
+1. Priority Access to Services: High-scoring individuals may receive priority access to services, but not to the detriment of others. Priority should be based on need rather than score.
+
+1. Recognition and Awards: Instead of exclusive privileges, high-scoring citizens can receive recognition and awards for their contributions to society. This can be in the form of certificates, medals, or public acknowledgment.
+
+1. Community Engagement: High-scoring individuals could be encouraged to participate in community projects and initiatives, where their expertise and leadership can benefit the community as a whole.
+
+1. Educational Support: High-scoring individuals might receive educational support in the form of mentorship programs or access to additional learning resources, without compromising equal educational opportunities for all.
 
 No citizen shall be subject to discrimination or unjust treatment based on their Adworld Score, ensuring equal opportunities for all.
 
