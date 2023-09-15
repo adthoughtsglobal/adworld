@@ -7,4 +7,4 @@ Everyone can make suggestions in this altrenate superverse. Welcome travellers t
 Your contribututions help us shape this alternate future. https://github.com/adthoughtsglobal/adworld/issues
 
 # See how it turned out 
-: (/main.md)https://github.com/adthoughtsglobal/adworld/blob/main/main.md)
+: (/main.md)[https://github.com/adthoughtsglobal/adworld/blob/main/main.md]
